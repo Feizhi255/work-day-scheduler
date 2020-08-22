@@ -7,7 +7,7 @@ JavaScript is still hard, but this assaignment was a bit better. Local storage i
 
 ![Application landing page](https://feizhi255.github.io/work-day-scheduler/image/workscheduler.png)
 
-Link to the live site: [quiz code](https://feizhi255.github.io/work-day-scheduler/)
+Link to the live site: [work-day-scheduler](https://feizhi255.github.io/work-day-scheduler/)
 
 ------
 ## Credits
